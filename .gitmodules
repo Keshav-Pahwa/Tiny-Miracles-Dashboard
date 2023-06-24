@@ -1,0 +1,6 @@
+[submodule "Frontend-Dashboard"]
+	path = Frontend-Dashboard
+	url = https://github.com/Shorya18/Team18_05.git
+[submodule "Backend-Dashboard"]
+	path = Backend-Dashboard
+	url = https://github.com/Ved142/Team18_Backend.git
